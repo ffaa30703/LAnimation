@@ -21,4 +21,8 @@ public class MainActivity extends AppCompatActivity {
     public void cardFlip(View view) {
         CardFlipActivity.startActivity(this);
     }
+
+    public void circularReveal(View view) {
+        CircularRevealActivity.startActivity(this);
+    }
 }

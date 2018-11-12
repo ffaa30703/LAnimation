@@ -1,1 +1,1 @@
-include ':app', ':propertyanimation', ':animatedrawablegraphics', ':revealorhideanimation'
+include ':app', ':propertyanimation', ':animatedrawablegraphics', ':revealorhideanimation', ':moveview'
