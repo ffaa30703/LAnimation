@@ -1,1 +1,1 @@
-include ':app', ':propertyanimation', ':animatedrawablegraphics', ':revealorhideanimation', ':moveview'
+include ':app', ':propertyanimation', ':animatedrawablegraphics', ':revealorhideanimation', ':moveview', ':moveviewfling', ':springphysics', ':animatelayoutchangetransition'
